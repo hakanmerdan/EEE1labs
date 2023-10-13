@@ -91,7 +91,7 @@ The signal source module has an equivalent circuit made of $V_\text{source}$, $R
 
 ![Equivalent circuit of earphones connected to signal source](graphics/opamp-phonedirecteq.png)
 
-When the earphone is connected, the current flowing in the earphones results in a voltage drop across $V_\text{source}$ and $C_\text{source}$.
+When the earphone is connected, the current flowing in the earphones results in a voltage drop across $R_\text{source}$ and $C_\text{source}$.
 This results in the reduction that you can measure at $V_\text{in}$ and the quiet sound.
 Put another way, most of the power produced by the signal source is dissipated in its own internal resistance and not the earphone.
 			
