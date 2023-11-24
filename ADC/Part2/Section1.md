@@ -56,7 +56,7 @@ Use the yellow version for all tasks that require just one signal source.
 			
 ## Before the lab
 
-1. Examine the [inverting amplifier](#inverting-amplifier) below. Determine a value of feedback resistor $R_\text{fb}$ to produce a voltage gain of $-1.5\pm5\%$.
+1. Examine the [inverting amplifier](#inverting-amplifier) below. Determine a value of feedback resistor $R_\text{fb}$ to produce a voltage gain of $-1.5\pm0.5\%$.
 2. An idealised amplifier circuit can be represented as an input impedance to ground and a voltage source and is shown here connected to a signal source:
 
 ![Ideal equivalent](graphics/opamp-miceq.png)
