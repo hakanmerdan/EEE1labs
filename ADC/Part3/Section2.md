@@ -112,3 +112,5 @@ Biasing won't be affected because the capacitor has no impact on DC voltages or 
 ![CE amplifier circuit with emitter degeneration including capacitor](graphics/ceamp3.png)
             
 - [ ] Find how emitter degeneration affects the gain of the amplifier, with and without the parallel capacitor.
+
+      [Section 3: Amplifiers Optimisation](ADC/Part3/Section3.md)
