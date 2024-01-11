@@ -107,3 +107,5 @@ Your two phototransistors can be used to measure any imbalance in light level be
 Write code to do this, taking into account any difference in sensitivity between the two phototransistors.
 			
 - [ ] Write Arduino code to measure both phototransistor levels and find the difference.
+
+[Section 7: Control](skills/section7.md)
