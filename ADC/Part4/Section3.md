@@ -78,3 +78,5 @@ Small signal analysis now gives the differential gain as:
 $$A_\text{d} = g_\text{m,T2}\left( \frac{1}{r_\text{o,T2}} + \frac{1}{r_\text{o,T7}} + \frac{1}{R_\text{B}}  \right)^{-1}$$
             
 - [ ] Measure the differential gain with the addition of the second current mirror
+
+      [Section 4: Power Amplifier Stage](ADC/Part4/Section4.md)
