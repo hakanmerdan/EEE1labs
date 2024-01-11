@@ -225,3 +225,5 @@ The modified connection diagram is shown below.
 ![The battery is connected to J9 and the Orangepip is now powered by the 5V output, so the USB cable and 7.5V power supply can be disconnected](graphics/EEEbug-battTest.png)
 
 - [ ] Finish constructing the EEEBug
+
+[Section 5: Signal Generation](skills/section5.md)
