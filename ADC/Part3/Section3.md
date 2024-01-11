@@ -43,3 +43,6 @@ Investigate how gain is affected by temperature.
 Once you are happy with the component values in your amplifier, build it on your breadboard.
 You will need to find the closest resistor values available in the lab.
 Check the bias conditions and measure the transfer function to compare your circuit with the simulation.
+
+
+[Section 1: Current Mirror and Current Source](ADC/Part4/Section1.md)
