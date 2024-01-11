@@ -132,3 +132,5 @@ You should obtain something that looks like the curves in your lecture notes and
 ![Characterisation of a BJT with Early voltage extrapolation](graphics/bjtchar.png)
         
 - [ ] Estimate the Early voltage $V_\text{A}$ of the device by finding the horizontal intercept of the flat parts of your $I_\text{C}$ curves. How does it compare to the value you extrapolated from the datasheet?
+
+      [Section 2: Common Emitter Amplifiers](ADC/Part3/Section2.md)
