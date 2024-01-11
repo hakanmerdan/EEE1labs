@@ -121,4 +121,6 @@ Use pin 9 to control the servo and retain the PWM output on pin 5.
 Previously, you used both servo motors with a phase difference between them.
 You can recreate this functionality by adding a second calculation for $\text{sin}(x+\phi)$ and sending the result to a second `Servo` instance attached to pin 10.
 			
-- [ ] Add a second output channel with a phase offset and adjust the parameters to achieve an effective sweep motion of both antennae.	
+- [ ] Add a second output channel with a phase offset and adjust the parameters to achieve an effective sweep motion of both antennae.
+
+[Section 6: Sensing](skills/section6.md)
