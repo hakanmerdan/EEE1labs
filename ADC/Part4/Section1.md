@@ -103,3 +103,5 @@ $T_3$ also cancels out the effect of the base current in the output and reduces 
 Choose the value of $R_1$ so that $I_\text{IN}=1$ mA again. Note that the voltage of the input node is now $V_\text{CC}-2V_\text{BE}$
             
 - [ ] Repeat the characterisation of the current mirror and look for an improvement in the current transfer ratio and output impedance.
+
+[Section 2: Gain Stage](ADC/Part4/Section2.md)
