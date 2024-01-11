@@ -58,3 +58,5 @@ They also impose a limit on the output voltage range — for a large positive or
 The limitations of the biasing resistors can be mitigated by replacing them with a current mirror.
 However, rather than introduce two new current mirrors, we can share the bias current of the common emitter stage.
 You'll see this in the circuit for the complete opamp.
+
+[Section 5: The Complete Opamp](ADC/Part4/Section5.md)
