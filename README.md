@@ -3,7 +3,7 @@
 This repository contains documentation and downloads for Year 1 labs in Electrical and Electronic Engineering at Imperial College London.
 
 ## General information
-The lab pairs and seating plan can be viewed [here](https://imperiallondon-my.sharepoint.com/:x:/g/personal/estott_ic_ac_uk/EXyfZ0G2pgdCrL0NEN46TxABjKJ9YiJVqA6ZOhACViz06g?e=q1tXPC)
+The lab pairs and seating plan can be viewed on Teams.
 You can post questions about the lab on Edstem ([ADC and skills](https://edstem.org/us/courses/30206/discussion/), DECA)
 
 ### Oscilloscopes
@@ -49,7 +49,4 @@ If you want to catch up on lab work at home, you can borrow a Picoscope (USB osc
 - Part 2 (Autumn Term Weeks 8–10)
   - [Section 1: Memory](DECA/Part2/Section1.md)
   - [Section 2: State Machines](DECA/Part2/Section2.md)
-- Part 3 (Spring Term Weeks 3-5)
-  - [Section 1: CPU Datapath](https://intranet.ee.ic.ac.uk/t.clarke/arch/deca/images/Lab23_1_ALU.pdf)
-- Part 4 (Spring Term weeks 7-10)
-  - [Section 2: CPU Controlpath](https://intranet.ee.ic.ac.uk/t.clarke/arch/deca/images/Lab23_2_Control.pdf)
+- See [DECA Spring web pages](https://intranet.ee.ic.ac.uk/t.clarke/arch/deca/) for Spring Term labs
